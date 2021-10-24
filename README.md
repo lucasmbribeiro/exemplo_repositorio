@@ -1,4 +1,4 @@
-# Análise Exploratório dos Voos do Brasil
+# Análise Exploratória dos Voos do Brasil
 
 ![](./imagens/aeroporto.jpg)
 [Fonte](https://unsplash.com/photos/DDBDkz0p918)
@@ -50,9 +50,6 @@ __Quantidade de Voos x Data de Previsão de Partida__
 ![](./imagens/qtd_voos_dt_prev_mes.png)
 
 __
-
-<br> __Quebra por Ano/mês - Evolução__
-![](./imagens/mes_ano_previsao_partida.png)
 
 <br> __Quebra por Ano/mês - Evolução__
 ![](./imagens/mes_ano_previsao_partida.png)
